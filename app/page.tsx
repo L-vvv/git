@@ -275,7 +275,7 @@ export default function Home() {
           <div className={`${styles.sectionInner} ${styles.booking}`}>
             <div className={styles.contactPanel}>
               <h2>预约到店</h2>
-              <p>营业时间 10:00-20:00，地址：阳光街 18 号宠物生活馆 1F。电话：400-888-2026。</p>
+              <p>营业时间 9:00-17:00，地址：阳光街 18 号宠物生活馆 1F。电话：400-888-2026。</p>
             </div>
             <form className={styles.form}>
               <div className={styles.formGrid}>
